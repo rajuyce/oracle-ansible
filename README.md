@@ -27,3 +27,4 @@ vagrant destroy
 password for Oracle Operating system user is welcome1
 
 more details at my article here: http://www.nodalpoint.com/devops-ansible-oracle-database-oraclelinux-7-vagrant/
+# oracle-ansible
